@@ -1,0 +1,148 @@
+html, body {
+    background-color: #ffffff;
+    font-size: 14px;
+    color: #666666;
+    width: 100%;
+    padding: 0;
+    margin-left: 0;
+    margin-right: 0;
+    font-family: 'pt_sansregular';
+    font-weight: normal;
+}
+.cd-header {
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 50px;
+    z-index: 2;
+	background:#292929;
+}
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 750px;
+}
+.col-sm-6 {
+    width: 50%;
+}
+.home-wrapper .home-content {
+    padding-top: 15%;
+    width: 100%;
+    margin-left: 5%;
+}
+.home-wrapper .home-content h1 {
+    text-transform: uppercase;
+    font-size: 50px;
+    font-family: 'Caveat';
+    letter-spacing: 1px;
+    line-height: 60px;
+    margin-bottom: 15px;
+    color: #000;
+}
+.home-wrapper .home-content p{
+    font-size: 22px;
+    font-family: 'Bad Script', cursive;
+}
+.home {
+    background: #fbf0dc;
+    padding-top: 80px;
+}
+.home-photo{
+    margin-top: -105%;
+    margin-left: 210%;
+    padding-bottom: 20px;
+    padding-top: 35px;
+}
+p {
+    line-height: 1.5rem;
+    font-size: 1.1rem;
+}
+.heading-content {
+    margin-bottom: 40px;
+}
+.sections {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    position: relative;
+    overflow: hidden;
+    display: block;
+}
+.sections p{
+    font-family: 'Caveat', cursive;
+}
+.heading-content h3 {
+    text-transform: uppercase;
+    font-family: 'Caveat';
+    color: #000;
+    text-align: center;
+}
+h3 {
+    font-weight: 300;
+    margin-bottom: .9rem;
+    font-size: 2.2rem;
+    line-height: 2.5rem;
+    display: block;
+}
+.col-sm-4 {
+    width: 33.33333333%;
+}
+.col-xs-12, .col-sm-12, .col-md-12, .col-lg-12,.col-sm-6{
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.about-wrapper .about-content {
+    margin-bottom: 20px;
+}
+.about-wrapper .about-content h5 {
+   font-family: 'Bad Script', cursive;
+    font-size: 21px;
+    color: #000;
+}
+h5 {
+    font-size: 1.3rem;
+    margin-bottom: 1rem;
+    display: block;
+}
+p {
+    line-height: 1.5rem;
+    font-size: 1.1rem;
+    margin: 0 0 15px;
+    display: block;
+    font-size: 24px;
+}
+.col-sm-4{
+    float: left;
+}
+.footer {
+    margin-top: 60px;
+    background: #292929;
+    color: #707070;
+    padding: 50px 0;
+    padding-bottom: 10px;
+    display: block;
+}
+.footer .container {
+    width: 970px;
+}
+.footer-item .copyright {
+    margin-top: -30px;
+}
+.footer-item .copyright p {
+    font-family: 'Bad Script';
+    font-size: 18px;
+}
+.footer-item .copyright p a {
+    color: red;
+}
+.footer-item .copyright p{
+    margin-left: 170%;
+    width: 400px;
+}
+a{
+    transition: 0.2s ease-in-out;
+}
